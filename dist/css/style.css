@@ -1,0 +1,31 @@
+.estyle{
+
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+
+}
+
+
+.estyle ul {
+    margin: 0px;
+    padding: 0px;
+}
+.estyle ul li {
+    padding-right: 2px;
+    list-style: none;
+    display: inline-block;
+}
+.estyle ul li .fa-edit{
+	color: #fd7e14;
+	transition: 1s;
+}
+.estyle ul li .fa-edit:hover{
+	color: #28a745;
+}
+.estyle ul li .fa-trash{
+	color: #dc3545;
+}
+.estyle ul li .fa-trash:hover{
+	color: #343a40;
+}
+
